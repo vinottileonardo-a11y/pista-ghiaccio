@@ -1,0 +1,17 @@
+{
+  "name": "Pista del Ghiaccio – Sestri Levante",
+  "short_name": "Pista Ghiaccio",
+  "description": "Gestione della Pista del Ghiaccio di Sestri Levante di Andrea e Alberto",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#081A33",
+  "theme_color": "#081A33",
+  "icons": [
+    { "src": "icone/icona-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icone/icona-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icone/icona-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
